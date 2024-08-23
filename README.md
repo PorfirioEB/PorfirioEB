@@ -1,5 +1,5 @@
-## 💫 About Me:
-Hi there! 👋 <br><br> I´m Porfirio Estrada <br><br>Apasionado en el Desarrollo de software con habilidades para brindar<br>soluciones innovadoras en el desarrollo de páginas y aplicaciones web.<br>Abierto al aprendizaje y entusiasta del aprendizaje continuo, con una<br>sólida capacidad para trabajar en equipo, brindar comunicación efectiva y<br>soluciones creativas.
+## 💫 Acerca de mi:
+Hola! 👋 yo soy Porfirio Estrada <br><br> I´m Porfirio Estrada <br><br>Apasionado en el Desarrollo de software con habilidades para brindar<br>soluciones innovadoras en el desarrollo de páginas y aplicaciones web.<br>Abierto al aprendizaje y entusiasta del aprendizaje continuo, con una<br>sólida capacidad para trabajar en equipo, brindar comunicación efectiva y<br>soluciones creativas.
 
 
 # 💻 Tech Stack:
